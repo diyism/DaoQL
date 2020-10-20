@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/davebryson/bftdb/cmd"
+	"github.com/diyism/bftdb/cmd"
 	"github.com/urfave/cli"
 )
 

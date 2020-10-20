@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/davebryson/bftdb/bftdb"
+	"github.com/diyism/bftdb/bftdb"
 	cfg "github.com/tendermint/tendermint/config"
 	nm "github.com/tendermint/tendermint/node"
 	"github.com/tendermint/tendermint/proxy"

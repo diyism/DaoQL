@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/c-bata/go-prompt"
-	"github.com/davebryson/bftdb/bftdb"
+	"github.com/diyism/bftdb/bftdb"
 )
 
 const HELP = `Commands:
